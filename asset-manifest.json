@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/get-linked-ohis/static/css/main.3dd2142a.css",
+    "main.js": "/get-linked-ohis/static/js/main.56ae520a.js",
+    "static/js/787.8b8c2359.chunk.js": "/get-linked-ohis/static/js/787.8b8c2359.chunk.js",
+    "static/media/man-wearing-smart-glasses-touching-virtual-screen.png": "/get-linked-ohis/static/media/man-wearing-smart-glasses-touching-virtual-screen.03eeee77d2d5a9dfeb53.png",
+    "static/media/ImageOne.png": "/get-linked-ohis/static/media/ImageOne.114858089bc6a1487f00.png",
+    "static/media/faq.png": "/get-linked-ohis/static/media/faq.1629426f1ff4b191eec1.png",
+    "static/media/Purple-Lens-Rules-1.png": "/get-linked-ohis/static/media/Purple-Lens-Rules-1.672f33d737e669266304.png",
+    "static/media/Purple-Lens-Flare-PNG-1.png": "/get-linked-ohis/static/media/Purple-Lens-Flare-PNG-1.79dd730a90cdee15e312.png",
+    "static/media/prizeTrophy.png": "/get-linked-ohis/static/media/prizeTrophy.9a0eda8b129177d96a13.png",
+    "static/media/judgingCriteria.png": "/get-linked-ohis/static/media/judgingCriteria.021e23d957e8bfc6c76a.png",
+    "static/media/rules.png": "/get-linked-ohis/static/media/rules.f5ab4262820295d8c00a.png",
+    "static/media/registerImage.png": "/get-linked-ohis/static/media/registerImage.ad7a16e28e7ef0a5d1de.png",
+    "static/media/privacyPolicy.png": "/get-linked-ohis/static/media/privacyPolicy.bf09c37d5fdf2bfb91a3.png",
+    "static/media/metrix1.png": "/get-linked-ohis/static/media/metrix1.707237dc732333fe1230.png",
+    "static/media/Vector.png": "/get-linked-ohis/static/media/Vector.9b7ac15b03885084c95b.png",
+    "static/media/MADETOMMYBoldOutline_PERSONAL.otf": "/get-linked-ohis/static/media/MADETOMMYBoldOutline_PERSONAL.a43df4f5348c314b4d73.otf",
+    "static/media/Purple-Lens-Rules-2.png": "/get-linked-ohis/static/media/Purple-Lens-Rules-2.b0a568b09096193a01a2.png",
+    "static/media/purpleLensTrophy.png": "/get-linked-ohis/static/media/purpleLensTrophy.b0a568b09096193a01a2.png",
+    "static/media/gold_medal.png": "/get-linked-ohis/static/media/gold_medal.375a5539c5e7837e2e20.png",
+    "static/media/TypoHoop_Regular_Demo.otf": "/get-linked-ohis/static/media/TypoHoop_Regular_Demo.940f4550ab5b68d4857e.otf",
+    "static/media/successful-man-3025713-2526911.png": "/get-linked-ohis/static/media/successful-man-3025713-2526911.d6946381af01873f0d4b.png",
+    "static/media/successfull.png": "/get-linked-ohis/static/media/successfull.7c221064e2bc5004793c.png",
+    "static/media/thebigidea1.png": "/get-linked-ohis/static/media/thebigidea1.4e0d2dd47e9a93d69904.png",
+    "static/media/bronze_medal.png": "/get-linked-ohis/static/media/bronze_medal.3f06179f39384b8179f2.png",
+    "static/media/silver_medal.png": "/get-linked-ohis/static/media/silver_medal.d79f749f23626316a4c6.png",
+    "static/media/ClashDisplay-Medium.woff": "/get-linked-ohis/static/media/ClashDisplay-Medium.d059aba57d21630bbeb1.woff",
+    "index.html": "/get-linked-ohis/index.html",
+    "main.3dd2142a.css.map": "/get-linked-ohis/static/css/main.3dd2142a.css.map",
+    "main.56ae520a.js.map": "/get-linked-ohis/static/js/main.56ae520a.js.map",
+    "787.8b8c2359.chunk.js.map": "/get-linked-ohis/static/js/787.8b8c2359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd2142a.css",
+    "static/js/main.56ae520a.js"
+  ]
+}
