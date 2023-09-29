@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/get-linked-ohis/static/css/main.3dd2142a.css",
-    "main.js": "/get-linked-ohis/static/js/main.56ae520a.js",
+    "main.js": "/get-linked-ohis/static/js/main.1716a28d.js",
     "static/js/787.8b8c2359.chunk.js": "/get-linked-ohis/static/js/787.8b8c2359.chunk.js",
     "static/media/man-wearing-smart-glasses-touching-virtual-screen.png": "/get-linked-ohis/static/media/man-wearing-smart-glasses-touching-virtual-screen.03eeee77d2d5a9dfeb53.png",
     "static/media/ImageOne.png": "/get-linked-ohis/static/media/ImageOne.114858089bc6a1487f00.png",
@@ -28,11 +28,11 @@
     "static/media/ClashDisplay-Medium.woff": "/get-linked-ohis/static/media/ClashDisplay-Medium.d059aba57d21630bbeb1.woff",
     "index.html": "/get-linked-ohis/index.html",
     "main.3dd2142a.css.map": "/get-linked-ohis/static/css/main.3dd2142a.css.map",
-    "main.56ae520a.js.map": "/get-linked-ohis/static/js/main.56ae520a.js.map",
+    "main.1716a28d.js.map": "/get-linked-ohis/static/js/main.1716a28d.js.map",
     "787.8b8c2359.chunk.js.map": "/get-linked-ohis/static/js/787.8b8c2359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dd2142a.css",
-    "static/js/main.56ae520a.js"
+    "static/js/main.1716a28d.js"
   ]
 }
